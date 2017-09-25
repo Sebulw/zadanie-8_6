@@ -1,0 +1,25 @@
+{
+  "name": "zadanie_8_6",
+  "version": "1.0.0",
+  "description": "kodilla_zadanie",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebulw/zadanie-8_6.git"
+  },
+  "keywords": [
+    "kodilla"
+  ],
+  "author": "Sebastian Wojnicz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sebulw/zadanie-8_6/issues"
+  },
+  "homepage": "https://github.com/Sebulw/zadanie-8_6#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
